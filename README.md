@@ -1,2 +1,1 @@
-capchaps.org
-============
+Website layout and content for http://www.capchaps.org
