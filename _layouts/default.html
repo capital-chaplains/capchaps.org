@@ -1,19 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html dir="ltr" lang="en-US">
 
   {% include head.html %}
 
-  <body>
+  <body class="page page-child page-template-default">
 
-    {% include header.html %}
+    {% include topbar.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+  <div id="main" class="outer">
+     <div class="container">
+
+            {% include header.html %}
+
+            <div id="content">
+          {{ content }}
+          <br class="clear">
+          </div>
+
+      <br class="clear">
+
     </div>
 
-    {% include footer.html %}
+  </div>
+
+
+  {% include footer.html %}
 
   </body>
 
