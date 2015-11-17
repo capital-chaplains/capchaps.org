@@ -9,6 +9,8 @@ by Sam Thomas - 10/08/2015
 
 <iframe src="//player.vimeo.com/video/95802990" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+[Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/151008-suicide-awareness-and-prevention.pdf)
+
 ##Living Without Offense 
 
 by Joel Alberti - 05/08/2015
@@ -20,6 +22,24 @@ by Joel Alberti - 05/08/2015
 by David Brynelson - 04/10/2014
 
 <iframe src="//player.vimeo.com/video/95657197" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+##Spiritual Direction
+
+by Roger Anderson - 04/09/2015
+
+<iframe src="//player.vimeo.com/video/127684669" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+##Secrets to a Successful Long-Term Chaplaincy Ministry 
+
+by Rev. U. Dean Hekel - 03/12/2015
+
+<iframe src="//player.vimeo.com/video/123041927" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+##Chaplain Self Care 
+
+by Sam Thomas -02/12/2015
+
+<iframe src="//player.vimeo.com/video/120558928" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ##Forgiveness
 
