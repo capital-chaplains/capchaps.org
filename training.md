@@ -3,17 +3,27 @@ title: Training
 permalink: training/
 ---
 
-##140508 training
+##Suicide Awareness and Prevention
+
+by Sam Thomas - 10/08/2015
 
 <iframe src="//player.vimeo.com/video/95802990" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-##140410 training
+##Living Without Offense 
+
+by Joel Alberti - 05/08/2015
+
+<iframe src="//player.vimeo.com/video/95802990" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+##Workplace Chaplaincy to Grieving Persons 
+
+by David Brynelson - 04/10/2014
 
 <iframe src="//player.vimeo.com/video/95657197" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ##Forgiveness
 
-By Sam Thomas
+by Sam Thomas - 03/13/2014
 
 <iframe src="//player.vimeo.com/video/89401987?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -23,14 +33,18 @@ By Sam Thomas
 
 ##Relational Boundaries
 
+by Kirk Morledge - 09/13/2013
+
 ###Part 1
 
 <iframe src="//player.vimeo.com/video/83982813?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-###Part 2
+###Part 2 - 
 
 <iframe src="//player.vimeo.com/video/83982015?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-##capchaps training 91412
+##Chaplain as a Counselor 
+
+by Kirk Morledge - 09/14/2012
 
 <iframe src="//player.vimeo.com/video/55534336?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
