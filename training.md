@@ -5,9 +5,9 @@ permalink: training/
 
 ##Suicide Awareness and Prevention
 
-by Joel Alberti - 05/08/2015
+by Sam Thomas -  10/08/2015
 
-<iframe src="//player.vimeo.com/video/95802990" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/144923311" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/151008-suicide-awareness-and-prevention.pdf)
 
