@@ -5,7 +5,7 @@ permalink: training/
 
 ##Suicide Awareness and Prevention
 
-by Sam Thomas - 10/08/2015
+by Joel Alberti - 05/08/2015
 
 <iframe src="//player.vimeo.com/video/95802990" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
