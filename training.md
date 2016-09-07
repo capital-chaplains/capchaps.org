@@ -7,7 +7,7 @@ permalink: training/
 
 by Steve Cook & Marie Eastman - June 26, 2016
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281865834%3Fsecret_token%3Ds-dhmvQ&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281865834%3Fsecret_token%3Ds-dhmvQ&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
 [Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/160626 Strategic Partnering for Sucess in the Workplace  - handout.pdf)
 
