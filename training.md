@@ -3,6 +3,24 @@ title: Training
 permalink: training/
 ---
 
+## Grief Training
+
+Jan 16, 2016
+
+<iframe src="//player.vimeo.com/video/199727346" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## Critical Incident
+
+Dec 6, 2016
+
+<iframe src="//player.vimeo.com/video/194524445" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+## Domestic Violence Intervention
+
+Nov 4, 2016
+
+<iframe src="//player.vimeo.com/video/190321471" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Strategic Partnering for Success in the Workplace
 
 by Steve Cook & Marie Eastman - June 26, 2016

@@ -16,7 +16,7 @@
 <link rel="alternate" type="application/rss+xml" title="Capital Chaplains &raquo; Wisconsin State Journal: Chaplains help stressed workers Comments Feed" href="feed/index.html" />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php%3Frsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
-<link rel='index' title='Capital Chaplains' href='../about/home/index.html' />
+<link rel='index' title='Capital Chaplains' href='..//index.html' />
 <link rel='prev' title='Broadcast Media' href='../about/press/abc-27-interview/index.html' />
 <link rel='next' title='About' href='../about/chaplaincy/index.html' />
 <meta name="generator" content="WordPress 3.2.1" />
@@ -46,7 +46,7 @@
 	 <div class="container">
 
 					<div id="header">
-				<a class="top" id="logo" href="../about/home/index.html">
+				<a class="top" id="logo" href="..//index.html">
 						<img src="../wp-content/themes/capchaps2/interface/logo.png" alt="Corporate Chaplaincy Consulting">
 					</a>
 					<div id="banner">
@@ -59,7 +59,7 @@
 
 
  <ul id="subnav">  
- <li class="page_item page-item-200"><a href="../about/home/index.html" title="Home">Home</a></li>
+ <li class="page_item page-item-200"><a href="..//index.html" title="Home">Home</a></li>
 <li class="page_item page-item-108"><a href="../about/chaplaincy/index.html" title="About">About</a></li>
 <li class="page_item page-item-5"><a href="../about/services/index.html" title="Services">Services</a></li>
 <li class="page_item page-item-13"><a href="../about/faq-2/index.html" title="FAQ">FAQ</a></li>
@@ -160,7 +160,7 @@ Chip Hunter, director for the MBA program in strategic human resources for UW-Ma
 					<a href="../privacy-policy/index.html" class="dark box">Privacy Policy</a>
 				</div>
 <div id="backhome" class="col link">
-					<a href="../about/home/index.html" class="dark box">Home Page</a>
+					<a href="..//index.html" class="dark box">Home Page</a>
 				</div>
 				<div id="social-links" class="col link">
 			<a href="http://www.vimeo.com/corpchaps/videos" id="vimeo" target="_blank"class="icon"><img src="../wp-content/themes/capchaps2/interface/transparent.png" alt="vimeo"></a>
