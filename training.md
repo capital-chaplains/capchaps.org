@@ -9,6 +9,7 @@ by David Smith
 
 <iframe src="//player.vimeo.com/video/199727346" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+[Training Note (.pdf)](https://https://workplace.chaplaincy.foundation/s/161208-Grief-Training-Notes-Sheet.pdf)
 <hr/>
 ## Critical Incident
 
