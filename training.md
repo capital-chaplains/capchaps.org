@@ -9,6 +9,7 @@ by David Smith
 
 <iframe src="//player.vimeo.com/video/199727346" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<hr/>
 ## Critical Incident
 
 by Mike Beresford
