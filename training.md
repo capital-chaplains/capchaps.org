@@ -5,25 +5,25 @@ permalink: training/
 
 ## Grief Training
 
-Jan 16, 2016
+by David Smith
 
 <iframe src="//player.vimeo.com/video/199727346" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Critical Incident
 
-Dec 6, 2016
+by Mike Beresford
 
 <iframe src="//player.vimeo.com/video/194524445" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Domestic Violence Intervention
 
-Nov 4, 2016
+by Kirk Morledge
 
 <iframe src="//player.vimeo.com/video/190321471" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Strategic Partnering for Success in the Workplace
 
-by Steve Cook & Marie Eastman - June 26, 2016
+by Steve Cook & Marie Eastman
 
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281865834%3Fsecret_token%3Ds-dhmvQ&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
@@ -31,7 +31,7 @@ by Steve Cook & Marie Eastman - June 26, 2016
 
 ## I’m Spiritual, But Not Religious
 
-by Kate Sweet - May 12, 2016
+by Kate Sweet
 
 <iframe src="//player.vimeo.com/video/170711111" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -39,7 +39,7 @@ by Kate Sweet - May 12, 2016
 
 ## Domestic Abuse Intervention Services
 
-by Sheba McCants - April 14, 2016
+by Sheba McCants
 
 <iframe src="//player.vimeo.com/video/170534435" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -47,19 +47,19 @@ by Sheba McCants - April 14, 2016
 
 ## Deep Listening
 
-by Sarah Binger - March 10, 2016
+by Sarah Binger
 
 <iframe src="//player.vimeo.com/video/162601798" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Emotional and Spiritual Care
 
-by Mike Beresford - February 11
+by Mike Beresford
 
 <iframe src="//player.vimeo.com/video/159628175" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Getting Help for the Suicidal Person
 
-by Mike Beresford - January, 14, 2016
+by Mike Beresford
 
 <iframe src="//player.vimeo.com/video/154735261" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -67,13 +67,13 @@ by Mike Beresford - January, 14, 2016
 
 ## Living Without Offense
 
-by Sam Thomas - November 12, 2015
+by Sam Thomas
 
 <iframe src="//player.vimeo.com/video/150218629" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Suicide Awareness and Prevention
 
-by Sam Thomas -  10/08/2015
+by Sam Thomas
 
 <iframe src="//player.vimeo.com/video/144923311" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -81,37 +81,37 @@ by Sam Thomas -  10/08/2015
 
 ## Living Without Offense
 
-by Joel Alberti - 05/08/2015
+by Joel Alberti
 
 <iframe src="//player.vimeo.com/video/95802990" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Workplace Chaplaincy to Grieving Persons
 
-by David Brynelson - 04/10/2014
+by David Brynelson
 
 <iframe src="//player.vimeo.com/video/95657197" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Spiritual Direction
 
-by Roger Anderson - 04/09/2015
+by Roger Anderson
 
 <iframe src="//player.vimeo.com/video/127684669" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Secrets to a Successful Long-Term Chaplaincy Ministry
 
-by Rev. U. Dean Hekel - 03/12/2015
+by Rev. U. Dean Hekel
 
 <iframe src="//player.vimeo.com/video/123041927" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Chaplain Self Care
 
-by Sam Thomas -02/12/2015
+by Sam Thoma
 
 <iframe src="//player.vimeo.com/video/120558928" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Forgiveness
 
-by Sam Thomas - 03/13/2014
+by Sam Thomas
 
 <iframe src="//player.vimeo.com/video/89401987?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -121,7 +121,7 @@ by Sam Thomas - 03/13/2014
 
 ## Relational Boundaries
 
-by Kirk Morledge - 09/13/2013
+by Kirk Morledge
 
 ## #Part 1
 
@@ -133,6 +133,6 @@ by Kirk Morledge - 09/13/2013
 
 ## Chaplain as a Counselor
 
-by Kirk Morledge - 09/14/2012
+by Kirk Morledge
 
 <iframe src="//player.vimeo.com/video/55534336?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
