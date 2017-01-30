@@ -148,6 +148,7 @@ by Kirk Morledge
 
 <iframe src="//player.vimeo.com/video/83982015?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<hr/>
 ## Chaplain as a Counselor
 
 by Kirk Morledge
