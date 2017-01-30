@@ -31,7 +31,7 @@ by Steve Cook & Marie Eastman
 
 <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281865834%3Fsecret_token%3Ds-dhmvQ&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=false"></iframe>
 
-[Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/160626 Strategic Partnering for Sucess in the Workplace  - handout.pdf)
+[Training Notes (.pdf)](https://https://workplace.chaplaincy.foundation/s/160626 Strategic Partnering for Sucess in the Workplace  - handout.pdf)
 
 <hr/>
 ## I’m Spiritual, But Not Religious
@@ -40,7 +40,7 @@ by Kate Sweet
 
 <iframe src="//player.vimeo.com/video/170711111" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/160512 I'm Spiritual, But Not Religious by Kate Sweet - handout.pdf)
+[Training Notes (.pdf)](https://https://workplace.chaplaincy.foundation/s/160512 I'm Spiritual, But Not Religious by Kate Sweet - handout.pdf)
 
 <hr/>
 ## Domestic Abuse Intervention Services
@@ -49,7 +49,7 @@ by Sheba McCants
 
 <iframe src="//player.vimeo.com/video/170534435" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/160414 Domestic Abuse Intervention Servies by Sheba McCants - handout.pdf)
+[Training Notes (.pdf)](https://https://workplace.chaplaincy.foundation/s/160414 Domestic Abuse Intervention Servies by Sheba McCants - handout.pdf)
 
 <hr/>
 ## Deep Listening
@@ -72,7 +72,7 @@ by Mike Beresford
 
 <iframe src="//player.vimeo.com/video/154735261" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/151112 Training Handout - Getting Help for the Suicidal Person by Sam Thomas.pdf)
+[Training Notes (.pdf)](https://https://workplace.chaplaincy.foundation/s/151112 Training Handout - Getting Help for the Suicidal Person by Sam Thomas.pdf)
 
 <hr/>
 ## Living Without Offense
@@ -88,7 +88,7 @@ by Sam Thomas
 
 <iframe src="//player.vimeo.com/video/144923311" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/151008-suicide-awareness-and-prevention.pdf)
+[Training Notes (.pdf)](https://https://workplace.chaplaincy.foundation/s/151008-suicide-awareness-and-prevention.pdf)
 
 <hr/>
 ## Living Without Offense
@@ -132,9 +132,9 @@ by Sam Thomas
 
 <iframe src="//player.vimeo.com/video/89401987?color=ffffff&title=0&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Training Notes (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/140313 Forgiveness by Sam Thomas - training notes.pdf)
+[Training Notes (.pdf)](https://https://workplace.chaplaincy.foundation/s/140313 Forgiveness by Sam Thomas - training notes.pdf)
 
-[Training Notes with blanks (.pdf)](https://googledrive.com/host/0B-rUPb5gojEteHdfWW5HY2gyaDg/140313 Forgiveness by Sam Thomas - training notes with blanks.pdf)
+[Training Notes with blanks (.pdf)](https://https://workplace.chaplaincy.foundation/s/140313 Forgiveness by Sam Thomas - training notes with blanks.pdf)
 
 <hr/>
 ## Relational Boundaries
