@@ -3,19 +3,28 @@ title: Training
 permalink: training/
 ---
 
+## Finishing Conversations Well
+
+<iframe src="//player.vimeo.com/video/202440357" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[Training Note 1 (.pdf)](https://workplace.chaplaincy.foundation/s/Finishing-Conversations-Well-Training-Notes-1.docx)<br>
+[Training Note 2 (.pdf)](https://workplace.chaplaincy.foundation/s/Finishing-Conversations-Well-Training-Notes-2.docx)
+<hr/>
+
 ## Grief Training
 
 by David Smith
 
-<iframe src="//player.vimeo.com/video/199727346" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/201056176" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Training Note (.pdf)](https://workplace.chaplaincy.foundation/s/161208-Grief-Training-Notes-Sheet.pdf)
 <hr/>
-## Critical Incident
+## Critical Incident: Part 1
 
 by Mike Beresford
 
 <iframe src="//player.vimeo.com/video/194524445" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[Training Note (.pdf)](https://workplace.chaplaincy.foundation/s/Critial-Incident-Part-I-Training-Notes.pdf)
 
 <hr/>
 ## Domestic Violence Intervention
@@ -23,6 +32,8 @@ by Mike Beresford
 by Kirk Morledge
 
 <iframe src="//player.vimeo.com/video/190321471" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[Training Note (.pdf)](https://workplace.chaplaincy.foundation/s/Domestic-Violence-Training-Notes.docx)
 
 <hr/>
 ## Strategic Partnering for Success in the Workplace
@@ -40,7 +51,7 @@ by Kate Sweet
 
 <iframe src="//player.vimeo.com/video/170711111" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[Training Notes (.pdf)](https://workplace.chaplaincy.foundation/s/160512-Im-Spiritual,-But-Not-Religious-by-Kate-Sweet-handout.pdf)
+[Training Notes (.pdf)](https://workplace.chaplaincy.foundation/s/160512-Im-Spiritual-But-Not-Religious-by-Kate-Sweet-handout-pddj.pdf)
 
 <hr/>
 ## Domestic Abuse Intervention Services
@@ -57,6 +68,9 @@ by Sheba McCants
 by Sarah Binger
 
 <iframe src="//player.vimeo.com/video/162601798" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[Training Note 1 (.pdf)](https://workplace.chaplaincy.foundation/s/Deep-Listening-Training-Notes-1.pdf)<br>
+[Training Note 2 (.pdf)](https://workplace.chaplaincy.foundation/s/Deep-Listening-Training-Notes-2.pdf)
 
 <hr/>
 ## Emotional and Spiritual Care
