@@ -17,30 +17,42 @@
   <br class="clear">
 </div>
 </div>
+
 <div id="footermiddle" class="outer">
-      <div class="container">
-        <div id="partnership" class="col">
-          in partnership with<br>
-          <a href="http://www.corpchaps.com"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/logo_footer.png" alt="Corporate Chaplaincy Consulting"></a>
-        </div>
-        <div id="copyright" class="col link">
-          <a href="{{ site.baseurl }}/privacy-policy/" class="dark box">Privacy Policy</a>
-        </div>
+  <div class="container">
+    <div id="partnership" class="col">
+      in partnership with<br>
+      <a href="http://www.corpchaps.com"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/logo_footer.png" alt="Corporate Chaplaincy Consulting"></a>
+    </div>
+    <div id="copyright" class="col link">
+      <a href="{{ site.baseurl }}/privacy-policy/" class="dark box">Privacy Policy</a>
+    </div>
 <div id="backhome" class="col link">
-          <a href="{{ site.baseurl }}" class="dark box">Home Page</a>
-        </div>
-        <div id="social-links" class="col link">
-      <a href="http://www.vimeo.com/corpchaps/videos" id="vimeo" target="_blank"class="icon"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/transparent.png" alt="vimeo"></a>
-      <a href="http://www.facebook.com/pages/Corporate-Chaplaincy-Consulting/240905042597630?v=info" id="facebook" target="_blank" class="icon"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/transparent.png" alt="facebook"></a>
-              <a href="http://twitter.com/stevewcook" id="twitter" target="_blank" class="icon"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/transparent.png" alt="twitter"></a>
-        </div>
-      </div>
+      <a href="{{ site.baseurl }}" class="dark box">Home Page</a>
     </div>
-    <div id="footerbottom" class="outer">
-      <div class="container">
-        <strong>608-217-7261</strong> - 7228 Elmwood Ave. - Middleton. WI 53562, USA<br>
-        &copy; 2005-2014 Capital Chaplains LLC.<br>
-
-
-      </div>
+    <div id="social-links" class="col link">
+  <a href="http://www.vimeo.com/corpchaps/videos" id="vimeo" target="_blank"class="icon"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/transparent.png" alt="vimeo"></a>
+  <a href="http://www.facebook.com/pages/Corporate-Chaplaincy-Consulting/240905042597630?v=info" id="facebook" target="_blank" class="icon"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/transparent.png" alt="facebook"></a>
+          <a href="http://twitter.com/stevewcook" id="twitter" target="_blank" class="icon"><img src="{{ site.baseurl }}/wp-content/themes/capchaps2/interface/transparent.png" alt="twitter"></a>
     </div>
+  </div>
+</div>
+
+<div id="footerbottom" class="outer">
+  <div class="container">
+    <strong>608-217-7261</strong> - 7228 Elmwood Ave. - Middleton. WI 53562, USA<br>
+    &copy; 2005-2014 Capital Chaplains LLC.<br>
+  </div>
+</div>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
