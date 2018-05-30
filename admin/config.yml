@@ -9,6 +9,6 @@ collections:
     create: true
     slug: "{{slug}}"
     fields: 
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Name", name: "title", widget: "string"}
       - {label: "Thumbnail Image", name: "thumbnail", widget: "image"}
       - {label: "Bio PDF", name: "bio", widget: "file"}
