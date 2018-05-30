@@ -24,9 +24,7 @@ layout: default
                 <tr>
                     {% for chaplain in chaplainsSorted limit:3 offset:offset %}
                         <td align="center">
-                            <a title="{{ chaplain.title }}" href="{{ chaplain.bio }}">
-                                {% image_tag class="center-cropped" alt=chaplain.title title=chaplain.title src=chaplain.thumbnail height="150" %}
-                            </a>
+                            <a title="{{ chaplain.title }}" href="{{ chaplain.bio }}" style="text-decoration:none">{% image_tag class="center-cropped" alt=chaplain.title title=chaplain.title src=chaplain.thumbnail height="150" %}</a>
                             <br />
                             <a href="{{ chaplain.bio }}">
                                 {{ chaplain.title }}
