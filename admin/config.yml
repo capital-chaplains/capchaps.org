@@ -2,3 +2,13 @@ backend:
   name: git-gateway
   branch: gh-pages # Branch to update (optional; defaults to master)
 media_folder: "img/uploads" # Media files will be stored in the repo under img/uploads
+collections:
+  - name: "chaplains"
+    label: "Chaplains"
+    folder: "_collections/chaplains"
+    create: true
+    slug: "{{slug}}"
+    fields: 
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Thumbnail Image", name: "thumbnail", widget: "image"}
+      - {label: "Bio PDF", name: "bio", widget: "file"}
