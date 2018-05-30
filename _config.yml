@@ -9,16 +9,15 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
       type: "pages"
     values:
       layout: "page"
+collections:
+  - chaplains
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-srcset
 markdown: kramdown
+srcset:
+  cache: "/tmp/images"

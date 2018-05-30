@@ -27,6 +27,12 @@ img.alignright{
 a:hover{
 	text-decoration:underline;
 }
+.center-cropped{
+    object-fit: cover;
+    object-position: center;
+    height: 150px;
+    width: 100px;
+}
 .outer{
 	width:100%;
 	text-align:center;
