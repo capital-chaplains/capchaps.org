@@ -4,7 +4,7 @@ backend:
 media_folder: "img/uploads" # Media files will be stored in the repo under img/uploads
 collections:
   - name: "chaplains"
-    label: "Chaplains"
+    label: "Chaplain"
     folder: "_collections/chaplains"
     create: true
     slug: "{{slug}}"
