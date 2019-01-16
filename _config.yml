@@ -3,7 +3,7 @@ title: Capital Chaplains
 email: steve@capchaps.org
 description: Providing help and hope to company owners, managers, and employees by building relationships and serving through a Chaplain Assistance Program.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.capchaps.org" # the base hostname & protocol for your site
+url: "https://www.capchaps.org" # the base hostname & protocol for your site
 permalink: /:categories/:title/
 defaults:
   -
